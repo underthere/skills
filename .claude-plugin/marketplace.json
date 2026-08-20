@@ -1,0 +1,18 @@
+{
+  "name": "underthere",
+  "owner": {
+    "name": "underthere"
+  },
+  "description": "underthere's personal skills, installable as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "underthere-skills",
+      "source": "./",
+      "description": "underthere's personal agent skills.",
+      "keywords": [
+        "skills",
+        "productivity"
+      ]
+    }
+  ]
+}

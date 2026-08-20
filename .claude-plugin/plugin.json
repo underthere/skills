@@ -1,0 +1,15 @@
+{
+  "name": "underthere-skills",
+  "version": "0.1.0",
+  "description": "underthere's personal agent skills.",
+  "author": {
+    "name": "underthere"
+  },
+  "keywords": [
+    "skills",
+    "productivity"
+  ],
+  "skills": [
+    "./skills/commit-message"
+  ]
+}
