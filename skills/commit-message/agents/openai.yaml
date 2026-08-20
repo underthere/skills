@@ -1,0 +1,3 @@
+interface:
+  display_name: "Commit Message"
+  short_description: "Draft a commit message from the staged diff"

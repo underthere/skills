@@ -12,6 +12,8 @@ skills/
   <skill-name>/
     SKILL.md         # skill 本体：frontmatter (name/description) + 指令
     *.md             # 可选的支持文档，SKILL.md 里按需引用（渐进式披露）
+    agents/
+      openai.yaml    # 给 Codex 等非 Claude harness 的界面元数据
 scripts/
   link-skills.sh     # 把所有 skills symlink 到 ~/.claude/skills 和 ~/.agents/skills
   list-skills.sh     # 列出仓库里的所有 skills
