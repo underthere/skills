@@ -10,6 +10,7 @@
     "productivity"
   ],
   "skills": [
-    "./skills/commit-message"
+    "./skills/commit-message",
+    "./skills/grilling"
   ]
 }
