@@ -45,7 +45,3 @@ bash scripts/link-skills.sh
 
 现有 skill 可以作为模板：[skills/commit-message/SKILL.md](skills/commit-message/SKILL.md)。
 
-## Skills
-
-- **[commit-message](skills/commit-message/SKILL.md)**: 根据已暂存的 diff 起草 commit message，优先遵循仓库自身的历史风格，无明显风格时回退到 Conventional Commits。
-- **[grilling](skills/grilling/SKILL.md)**: 围绕一个计划/决策/想法对你穷追猛打地提问：把议题映射成设计树，按轮次问完整个前沿（每题带推荐答案），直到没有任何隐含假设，最后输出决策清单。改编自 [mattpocock/skills](https://github.com/mattpocock/skills) 的同名 skill。
